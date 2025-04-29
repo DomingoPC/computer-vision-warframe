@@ -1,730 +1,730 @@
-,name,type,category,obtained,max_rank
-0,Amesha,Archwing,Archwing,False,False
-1,Ash,Warframe,Warframes,True,True
-2,Ash Prime,Warframe,Warframes,True,True
-3,Atlas,Warframe,Warframes,False,False
-4,Atlas Prime,Warframe,Warframes,False,False
-5,Banshee,Warframe,Warframes,True,True
-6,Banshee Prime,Warframe,Warframes,True,True
-7,Baruuk,Warframe,Warframes,False,False
-8,Baruuk Prime,Warframe,Warframes,False,False
-9,Bonewidow,Warframe,Warframes,False,False
-10,Caliban,Warframe,Warframes,True,True
-11,Chroma,Warframe,Warframes,True,True
-12,Chroma Prime,Warframe,Warframes,True,True
-13,Citrine,Warframe,Warframes,False,False
-14,Cyte-09,Warframe,Warframes,False,False
-15,Dagath,Warframe,Warframes,False,False
-16,Dante,Warframe,Warframes,False,False
-17,Elytron,Archwing,Archwing,True,True
-18,Ember,Warframe,Warframes,True,True
-19,Ember Prime,Warframe,Warframes,True,True
-20,Equinox,Warframe,Warframes,True,True
-21,Equinox Prime,Warframe,Warframes,True,True
-22,Excalibur,Warframe,Warframes,True,True
-23,Excalibur Prime,Warframe,Warframes,False,False
-24,Excalibur Umbra,Warframe,Warframes,False,False
-25,Frost,Warframe,Warframes,True,True
-26,Frost Prime,Warframe,Warframes,True,True
-27,Gara,Warframe,Warframes,True,True
-28,Gara Prime,Warframe,Warframes,False,False
-29,Garuda,Warframe,Warframes,True,True
-30,Garuda Prime,Warframe,Warframes,False,False
-31,Gauss,Warframe,Warframes,True,True
-32,Gauss Prime,Warframe,Warframes,False,False
-33,Grendel,Warframe,Warframes,False,False
-34,Grendel Prime,Warframe,Warframes,False,False
-35,Gyre,Warframe,Warframes,True,True
-36,Harrow,Warframe,Warframes,True,True
-37,Harrow Prime,Warframe,Warframes,False,False
-38,Helminth,Warframe,Warframes,True,True
-39,Hildryn,Warframe,Warframes,False,False
-40,Hildryn Prime,Warframe,Warframes,False,False
-41,Hydroid,Warframe,Warframes,True,True
-42,Hydroid Prime,Warframe,Warframes,True,True
-43,Inaros,Warframe,Warframes,True,True
-44,Inaros Prime,Warframe,Warframes,False,False
-45,Itzal,Archwing,Archwing,True,False
-46,Ivara,Warframe,Warframes,True,True
-47,Ivara Prime,Warframe,Warframes,False,False
-48,Jade,Warframe,Warframes,True,True
-49,Khora,Warframe,Warframes,True,True
-50,Khora Prime,Warframe,Warframes,False,False
-51,Koumei,Warframe,Warframes,False,False
-52,Kullervo,Warframe,Warframes,False,False
-53,Lavos,Warframe,Warframes,True,True
-54,Lavos Prime,Warframe,Warframes,False,False
-55,Limbo,Warframe,Warframes,True,True
-56,Limbo Prime,Warframe,Warframes,True,True
-57,Loki,Warframe,Warframes,True,True
-58,Loki Prime,Warframe,Warframes,True,True
-59,Mag,Warframe,Warframes,True,True
-60,Mag Prime,Warframe,Warframes,True,True
-61,Mesa,Warframe,Warframes,True,True
-62,Mesa Prime,Warframe,Warframes,True,True
-63,Mirage,Warframe,Warframes,True,True
-64,Mirage Prime,Warframe,Warframes,True,True
-65,Nekros,Warframe,Warframes,True,True
-66,Nekros Prime,Warframe,Warframes,True,True
-67,Nezha,Warframe,Warframes,False,False
-68,Nezha Prime,Warframe,Warframes,False,False
-69,Nidus,Warframe,Warframes,True,True
-70,Nidus Prime,Warframe,Warframes,True,True
-71,Nova,Warframe,Warframes,True,True
-72,Nova Prime,Warframe,Warframes,True,True
-73,Nyx,Warframe,Warframes,True,True
-74,Nyx Prime,Warframe,Warframes,True,True
-75,Oberon,Warframe,Warframes,True,True
-76,Oberon Prime,Warframe,Warframes,True,True
-77,Octavia,Warframe,Warframes,False,False
-78,Octavia Prime,Warframe,Warframes,False,False
-79,Odonata,Archwing,Archwing,True,True
-80,Odonata Prime,Archwing,Archwing,True,False
-81,Protea,Warframe,Warframes,True,True
-82,Protea Prime,Warframe,Warframes,True,True
-83,Qorvex,Warframe,Warframes,False,False
-84,Revenant,Warframe,Warframes,True,True
-85,Revenant Prime,Warframe,Warframes,True,True
-86,Rhino,Warframe,Warframes,True,True
-87,Rhino Prime,Warframe,Warframes,True,True
-88,Saryn,Warframe,Warframes,True,True
-89,Saryn Prime,Warframe,Warframes,True,True
-90,Sevagoth,Warframe,Warframes,True,True
-91,Sevagoth Prime,Warframe,Warframes,True,True
-92,Styanax,Warframe,Warframes,True,True
-93,Temple,Warframe,Warframes,False,False
-94,Titania,Warframe,Warframes,True,True
-95,Titania Prime,Warframe,Warframes,True,True
-96,Trinity,Warframe,Warframes,True,True
-97,Trinity Prime,Warframe,Warframes,True,True
-98,Valkyr,Warframe,Warframes,True,True
-99,Valkyr Prime,Warframe,Warframes,False,False
-100,Vauban,Warframe,Warframes,True,True
-101,Vauban Prime,Warframe,Warframes,False,False
-102,Voidrig,Warframe,Warframes,True,False
-103,Volt,Warframe,Warframes,True,True
-104,Volt Prime,Warframe,Warframes,True,True
-105,Voruna,Warframe,Warframes,False,False
-106,Wisp,Warframe,Warframes,True,True
-107,Wisp Prime,Warframe,Warframes,True,True
-108,Wukong,Warframe,Warframes,False,False
-109,Wukong Prime,Warframe,Warframes,False,False
-110,Xaku,Warframe,Warframes,False,False
-111,Xaku Prime,Warframe,Warframes,False,False
-112,Yareli,Warframe,Warframes,False,False
-113,Zephyr,Warframe,Warframes,False,False
-114,Zephyr Prime,Warframe,Warframes,False,False
-0,Acceltra,Rifle,Primary,True,True
-1,Acceltra Prime,Rifle,Primary,True,True
-2,Ack & Brunt,Melee,Melee,False,False
-3,Acrid,Pistol,Secondary,False,False
-4,Aegrit,Throwing,Secondary,False,False
-5,Aeolak,Rifle,Primary,False,False
-6,Afentis,Rifle,Primary,False,False
-7,Afuris,Dual Pistols,Secondary,True,True
-8,Afuris Prime,Pistol,Secondary,False,False
-9,Agkuza,Arch-Melee,Arch-Melee,False,False
-10,Akarius,Pistol,Secondary,False,False
-11,Akarius Prime,Pistol,Secondary,False,False
-12,Akbolto,Dual Pistols,Secondary,False,False
-13,Akbolto Prime,Pistol,Secondary,False,False
-14,Akbronco,Dual Pistols,Secondary,True,True
-15,Akbronco Prime,Dual Pistols,Secondary,True,True
-16,Akjagara,Pistol,Secondary,False,False
-17,Akjagara Prime,Pistol,Secondary,False,False
-18,Aklato,Dual Pistols,Secondary,False,False
-19,Aklex,Dual Pistols,Secondary,True,True
-20,Aklex Prime,Dual Pistols,Secondary,True,True
-21,Akmagnus,Dual Pistols,Secondary,False,False
-22,Akmagnus Prime,Dual Pistols,Secondary,False,False
-23,Aksomati,Pistol,Secondary,True,True
-24,Aksomati Prime,Pistol,Secondary,False,False
-25,Akstiletto,Pistol,Secondary,True,True
-26,Akstiletto Prime,Pistol,Secondary,True,True
-27,Akvasto,Dual Pistols,Secondary,True,True
-28,Akvasto Prime,Pistol,Secondary,False,False
-29,Akzani,Pistol,Secondary,True,True
-30,Alternox,Rifle,Primary,False,False
-31,Amanata,Melee,Melee,False,False
-32,Ambassador,Rifle,Primary,False,False
-33,Amphis,Melee,Melee,True,True
-34,Amprex,Rifle,Primary,True,True
-35,Angstrum,Pistol,Secondary,False,False
-36,Anku,Melee,Melee,False,False
-37,Ankyros,Melee,Melee,True,True
-38,Ankyros Prime,Melee,Melee,True,True
-39,Arca Plasmor,Shotgun,Primary,True,True
-40,Arca Scisco,Pistol,Secondary,True,True
-41,Arca Titron,Melee,Melee,True,True
-42,Argo & Vel,Melee,Melee,False,False
-43,Argonak,Rifle,Primary,True,True
-44,Arum Spinosa,Melee,Melee,False,False
-45,Astilla,Shotgun,Primary,True,True
-46,Astilla Prime,Rifle,Primary,False,False
-47,Athodai,Pistol,Secondary,True,True
-48,Atomos,Pistol,Secondary,True,True
-49,Atterax,Melee,Melee,True,True
-50,Attica,Rifle,Primary,False,False
-51,Ax-52,Rifle,Primary,False,False
-52,Azima,Pistol,Secondary,True,True
-53,Azothane,Melee,Melee,False,False
-54,Balla,Zaw Component,Melee,True,True
-55,Balla,Zaw Component,Melee,False,False
-56,Ballistica,Pistol,Secondary,True,True
-57,Ballistica Prime,Pistol,Secondary,True,True
-58,Basmu,Rifle,Primary,True,True
-59,Battacor,Rifle,Primary,False,False
-60,Baza,Rifle,Primary,True,True
-61,Baza Prime,Rifle,Primary,False,False
-62,Bo,Melee,Melee,True,True
-63,Bo Prime,Melee,Melee,True,True
-64,Boar,Shotgun,Primary,True,True
-65,Boar Prime,Shotgun,Primary,False,False
-66,Boltace,Melee,Melee,True,True
-67,Bolto,Pistol,Secondary,True,True
-68,Boltor,Rifle,Primary,False,False
-69,Boltor Prime,Rifle,Primary,False,False
-70,Brakk,Pistol,Secondary,True,False
-71,Braton,Rifle,Primary,True,True
-72,Braton Prime,Rifle,Primary,True,True
-73,Braton Vandal,Rifle,Primary,False,False
-74,Broken Scepter,Melee,Melee,True,True
-75,Broken War,Melee,Melee,True,True
-76,Bronco,Pistol,Secondary,True,True
-77,Bronco Prime,Pistol,Secondary,True,True
-78,Bubonico,Rifle,Primary,False,False
-79,Burston,Rifle,Primary,True,True
-80,Burston Prime,Rifle,Primary,True,True
-81,Buzlok,Rifle,Primary,False,False
-82,Cadus,Melee,Melee,False,False
-83,Cantare,Throwing,Secondary,False,False
-84,Carmine Penta,Rifle,Primary,False,False
-85,Cassowar,Melee,Melee,False,False
-86,Castanas,Throwing,Secondary,False,False
-87,Catabolyst,Pistol,Secondary,False,False
-88,Caustacyst,Melee,Melee,False,False
-89,Cedo,Shotgun,Primary,False,False
-90,Cedo Prime,Rifle,Primary,False,False
-91,Centaur,Arch-Melee,Arch-Melee,False,False
-92,Ceramic Dagger,Melee,Melee,True,True
-93,Cerata,Melee,Melee,False,False
-94,Cernos,Rifle,Primary,True,True
-95,Cernos Prime,Rifle,Primary,True,True
-96,Cestra,Pistol,Secondary,True,True
-97,Ceti Lacera,Melee,Melee,True,True
-98,Cinta,Rifle,Primary,False,False
-99,Cobra & Crane,Melee,Melee,True,True
-100,Cobra & Crane Prime,Melee,Melee,False,False
-101,Coda Bassocyst,Shotgun,Primary,False,False
-102,Coda Catabolyst,Pistol,Secondary,False,False
-103,Coda Caustacyst,Melee,Melee,False,False
-104,Coda Hema,Rifle,Primary,False,False
-105,Coda Hirudo,Melee,Melee,False,False
-106,Coda Mire,Melee,Melee,False,False
-107,Coda Motovore,Melee,Melee,False,False
-108,Coda Pathocyst,Melee,Melee,False,False
-109,Coda Pox,Pistol,Secondary,False,False
-110,Coda Sporothrix,Rifle,Primary,True,False
-111,Coda Synapse,Rifle,Primary,True,True
-112,Coda Tysis,Pistol,Secondary,False,False
-113,Convectrix,Rifle,Primary,False,False
-114,Corinth,Shotgun,Primary,False,False
-115,Corinth Prime,Rifle,Primary,False,False
-116,Cortege,Arch-Gun,Arch-Gun,False,False
-117,Corufell,Melee,Melee,False,False
-118,Corvas,Arch-Gun,Arch-Gun,False,False
-119,Corvas Prime,Arch-Gun,Arch-Gun,False,False
-120,Cronus,Melee,Melee,True,True
-121,Cyanex,Pistol,Secondary,False,False
-122,Cyath,Zaw Component,Melee,True,True
-123,Cyath,Zaw Component,Melee,False,False
-124,Cycron,Pistol,Secondary,False,False
-125,Cyngas,Arch-Gun,Arch-Gun,False,False
-126,Daikyu,Rifle,Primary,False,False
-127,Dakra Prime,Melee,Melee,True,True
-128,Dark Dagger,Melee,Melee,True,True
-129,Dark Split-Sword,Melee,Melee,False,False
-130,Dark Sword,Melee,Melee,True,True
-131,Dehtat,Zaw Component,Melee,False,False
-132,Dehtat,Zaw Component,Melee,False,False
-133,Dera,Rifle,Primary,True,True
-134,Dera Vandal,Rifle,Primary,True,True
-135,Despair,Throwing,Secondary,True,True
-136,Destreza,Melee,Melee,True,True
-137,Destreza Prime,Melee,Melee,False,False
-138,Detron,Pistol,Secondary,True,True
-139,Dex Dakra,Melee,Melee,True,True
-140,Dex Furis,Pistol,Secondary,True,True
-141,Dex Nikana,Melee,Melee,True,True
-142,Dex Sybaris,Rifle,Primary,True,True
-143,Dokrahm,Zaw Component,Melee,False,False
-144,Dorrclave,Melee,Melee,False,False
-145,Dragon Nikana,Melee,Melee,True,True
-146,Drakgoon,Rifle,Primary,True,True
-147,Dread,Rifle,Primary,True,True
-148,Dual Cestra,Pistol,Secondary,False,False
-149,Dual Cleavers,Melee,Melee,True,True
-150,Dual Coda Torxica,Pistol,Secondary,False,False
-151,Dual Decurion,Arch-Gun,Arch-Gun,False,False
-152,Dual Ether,Melee,Melee,True,True
-153,Dual Heat Swords,Melee,Melee,True,True
-154,Dual Ichor,Melee,Melee,False,False
-155,Dual Kamas,Melee,Melee,True,True
-156,Dual Kamas Prime,Melee,Melee,False,False
-157,Dual Keres,Melee,Melee,True,True
-158,Dual Keres Prime,Melee,Melee,False,False
-159,Dual Raza,Melee,Melee,False,False
-160,Dual Skana,Melee,Melee,True,True
-161,Dual Toxocyst,Pistol,Secondary,True,True
-162,Dual Viciss,Rifle,Melee,False,False
-163,Dual Zoren,Melee,Melee,True,True
-164,Dual Zoren Prime,Melee,Melee,False,False
-165,Edun,Melee,Melee,False,False
-166,Efv-5 Jupiter,Rifle,Primary,False,False
-167,Efv-8 Mars,Pistol,Secondary,False,False
-168,Ekhein,Rifle,Melee,False,False
-169,Ekwana Ii Jai,Zaw Component,Melee,False,False
-170,Ekwana Ii Ruhang,Zaw Component,Melee,False,False
-171,Ekwana Jai,Zaw Component,Melee,False,False
-172,Ekwana Jai Ii,Zaw Component,Melee,False,False
-173,Ekwana Ruhang,Zaw Component,Melee,False,False
-174,Ekwana Ruhang Ii,Zaw Component,Melee,False,False
-175,Embolist,Pistol,Secondary,False,False
-176,Endura,Melee,Melee,False,False
-177,Epitaph,Pistol,Secondary,True,True
-178,Epitaph Prime,Pistol,Secondary,True,True
-179,Ether Daggers,Melee,Melee,True,True
-180,Ether Reaper,Melee,Melee,True,True
-181,Ether Sword,Melee,Melee,True,False
-182,Euphona Prime,Pistol,Secondary,False,False
-183,Evensong,Rifle,Primary,False,False
-184,Exergis,Shotgun,Primary,True,True
-185,Falcor,Melee,Melee,False,False
-186,Fang,Melee,Melee,True,True
-187,Fang Prime,Melee,Melee,True,True
-188,Felarx,Shotgun,Primary,False,False
-189,Ferrox,Rifle,Primary,False,False
-190,Fluctus,Arch-Gun,Arch-Gun,True,True
-191,Flux Rifle,Rifle,Primary,True,True
-192,Fragor,Melee,Melee,True,True
-193,Fragor Prime,Melee,Melee,True,True
-194,Fulmin,Rifle,Primary,True,True
-195,Fulmin Prime,Rifle,Primary,False,False
-196,Furax,Melee,Melee,True,True
-197,Furax Wraith,Melee,Melee,True,True
-198,Furis,Pistol,Secondary,True,True
-199,Fusilai,Throwing,Secondary,True,True
-200,Galatine,Melee,Melee,True,True
-201,Galatine Prime,Melee,Melee,True,True
-202,Galvacord,Melee,Melee,False,False
-203,Gammacor,Pistol,Secondary,True,True
-204,Gazal Machete,Melee,Melee,False,False
-205,Ghoulsaw,Melee,Melee,False,False
-206,Glaive,Melee,Melee,True,True
-207,Glaive Prime,Melee,Melee,True,True
-208,Glaxion,Rifle,Primary,True,True
-209,Glaxion Vandal,Rifle,Primary,False,False
-210,Gorgon,Rifle,Primary,True,True
-211,Gorgon Wraith,Rifle,Primary,True,True
-212,Gotva Prime,Rifle,Primary,True,True
-213,Grakata,Rifle,Primary,True,True
-214,Gram,Melee,Melee,True,True
-215,Gram Prime,Melee,Melee,False,False
-216,Grattler,Arch-Gun,Arch-Gun,True,True
-217,Grimoire,Rifle,Secondary,True,True
-218,Grimoire,Rifle,Secondary,False,False
-219,Grinlok,Rifle,Primary,True,True
-220,Guandao,Melee,Melee,True,True
-221,Guandao Prime,Melee,Melee,True,True
-222,Gunsen,Melee,Melee,True,True
-223,Gunsen Prime,Melee,Melee,False,False
-224,Halikar,Melee,Melee,False,False
-225,Halikar Wraith,Melee,Melee,False,False
-226,Harmony,Melee,Melee,False,False
-227,Harpak,Rifle,Primary,True,True
-228,Hate,Melee,Melee,True,True
-229,Heat Dagger,Melee,Melee,True,True
-230,Heat Sword,Melee,Melee,True,True
-231,Hek,Shotgun,Primary,True,True
-232,Heliocor,Melee,Melee,False,False
-233,Hema,Rifle,Primary,False,False
-234,Hespar,Melee,Melee,False,False
-235,Higasa,Rifle,Primary,False,False
-236,Hikou,Throwing,Secondary,True,True
-237,Hikou Prime,Throwing,Secondary,True,True
-238,Hind,Rifle,Primary,False,False
-239,Hirudo,Melee,Melee,True,True
-240,Hystrix,Pistol,Secondary,False,False
-241,Hystrix Prime,Pistol,Secondary,False,False
-242,Ignis,Rifle,Primary,True,True
-243,Ignis Wraith,Rifle,Primary,False,False
-244,Imperator,Arch-Gun,Arch-Gun,True,True
-245,Imperator Vandal,Arch-Gun,Arch-Gun,False,False
-246,Innodem,Melee,Melee,True,True
-247,Jai,Zaw Component,Melee,False,False
-248,Jai Ii,Zaw Component,Melee,False,False
-249,Jat Kittag,Melee,Melee,False,False
-250,Jat Kusar,Melee,Melee,True,True
-251,Javlok,Rifle,Primary,False,False
-252,Jaw Sword,Melee,Melee,True,True
-253,Jayap,Zaw Component,Melee,False,False
-254,Kama,Melee,Melee,True,True
-255,Karak,Rifle,Primary,True,True
-256,Karak Wraith,Rifle,Primary,False,False
-257,Karyst,Melee,Melee,True,True
-258,Karyst Prime,Melee,Melee,True,True
-259,Kaszas,Arch-Melee,Arch-Melee,False,False
-260,Keratinos,Melee,Melee,False,False
-261,Kesheg,Melee,Melee,False,False
-262,Kestrel,Melee,Melee,True,True
-263,Knell,Pistol,Secondary,True,True
-264,Knell Prime,Pistol,Secondary,True,True
-265,Knux,Arch-Melee,Arch-Melee,False,False
-266,Kogake,Melee,Melee,True,True
-267,Kogake Prime,Melee,Melee,True,True
-268,Kohm,Rifle,Primary,True,True
-269,Kohmak,Pistol,Secondary,False,False
-270,Komorex,Rifle,Primary,False,False
-271,Kompressa,Pistol,Secondary,False,False
-272,Korb,Zaw Component,Melee,False,False
-273,Korrudo,Melee,Melee,False,False
-274,Korumm,Melee,Melee,False,False
-275,Kraken,Pistol,Secondary,True,True
-276,Kreska,Melee,Melee,False,False
-277,Krohkur,Melee,Melee,True,True
-278,Kronen,Melee,Melee,True,True
-279,Kronen Prime,Melee,Melee,False,False
-280,Kronsh,Zaw Component,Melee,True,True
-281,Kronsh,Zaw Component,Melee,False,False
-282,Kroostra,Zaw Component,Melee,False,False
-283,Kulstar,Pistol,Secondary,True,True
-284,Kunai,Throwing,Secondary,True,True
-285,Kuva Ayanga,Arch-Gun,Arch-Gun,False,False
-286,Kuva Brakk,Rifle,Secondary,False,False
-287,Kuva Bramma,Rifle,Primary,True,False
-288,Kuva Chakkhurr,Rifle,Primary,False,False
-289,Kuva Drakgoon,Rifle,Primary,False,False
-290,Kuva Grattler,Arch-Gun,Arch-Gun,False,False
-291,Kuva Hek,Rifle,Primary,False,False
-292,Kuva Hind,Rifle,Primary,False,False
-293,Kuva Karak,Rifle,Primary,False,False
-294,Kuva Kohm,Rifle,Primary,True,False
-295,Kuva Kraken,Rifle,Secondary,False,False
-296,Kuva Nukor,Rifle,Secondary,True,True
-297,Kuva Ogris,Rifle,Primary,False,False
-298,Kuva Quartakk,Rifle,Primary,True,False
-299,Kuva Seer,Rifle,Secondary,True,True
-300,Kuva Shildeg,Melee,Melee,False,False
-301,Kuva Sobek,Rifle,Primary,False,False
-302,Kuva Tonkor,Rifle,Primary,True,False
-303,Kuva Twin Stubbas,Rifle,Secondary,False,False
-304,Kuva Zarr,Rifle,Primary,False,False
-305,Kwath,Zaw Component,Melee,False,False
-306,Lacera,Melee,Melee,False,False
-307,Laetum,Pistol,Secondary,True,True
-308,Laka,Zaw Component,Melee,False,False
-309,Lanka,Rifle,Primary,True,True
-310,Larkspur,Arch-Gun,Arch-Gun,False,False
-311,Larkspur Prime,Arch-Gun,Arch-Gun,False,False
-312,Lato,Pistol,Secondary,True,False
-313,Lato Prime,Pistol,Secondary,False,False
-314,Lato Vandal,Pistol,Secondary,False,False
-315,Latron,Rifle,Primary,True,True
-316,Latron Prime,Rifle,Primary,False,False
-317,Latron Wraith,Rifle,Primary,True,True
-318,Lecta,Melee,Melee,True,True
-319,Lenz,Rifle,Primary,True,True
-320,Lesion,Melee,Melee,True,True
-321,Lex,Pistol,Secondary,True,True
-322,Lex Prime,Pistol,Secondary,True,True
-323,Machete,Melee,Melee,True,True
-324,Machete Wraith,Melee,Melee,False,False
-325,Magistar,Melee,Melee,True,True
-326,Magnus,Pistol,Secondary,False,False
-327,Magnus Prime,Pistol,Secondary,False,False
-328,Mandonel,Arch-Gun,Arch-Gun,False,False
-329,Mara Detron,Rifle,Secondary,False,False
-330,Marelok,Pistol,Secondary,False,False
-331,Masseter,Melee,Melee,True,True
-332,Masseter Prime,Melee,Melee,False,False
-333,Mausolon,Arch-Gun,Arch-Gun,True,True
-334,Mewan,Zaw Component,Melee,False,False
-335,Mewan,Zaw Component,Melee,False,False
-336,Mios,Melee,Melee,True,True
-337,Mire,Melee,Melee,True,True
-338,Miter,Rifle,Primary,True,True
-339,Mk1-Bo,Rifle,Melee,False,False
-340,Mk1-Braton,Rifle,Primary,False,False
-341,Mk1-Furax,Rifle,Melee,False,False
-342,Mk1-Furis,Rifle,Secondary,False,False
-343,Mk1-Kunai,Rifle,Secondary,False,False
-344,Mk1-Paris,Rifle,Primary,True,True
-345,Mk1-Strun,Rifle,Primary,False,False
-346,Morgha,Arch-Gun,Arch-Gun,False,False
-347,Mutalist Cernos,Rifle,Primary,False,False
-348,Mutalist Quanta,Rifle,Primary,False,False
-349,Nagantaka,Rifle,Primary,True,True
-350,Nagantaka Prime,Rifle,Primary,False,False
-351,Nami Skyla,Melee,Melee,False,False
-352,Nami Skyla Prime,Melee,Melee,False,False
-353,Nami Solo,Melee,Melee,True,True
-354,Nataruk,Rifle,Primary,True,True
-355,Nepheri,Melee,Melee,False,False
-356,Nikana,Melee,Melee,True,True
-357,Nikana Prime,Melee,Melee,True,True
-358,Ninkondi,Melee,Melee,False,False
-359,Ninkondi Prime,Melee,Melee,False,False
-360,Nukor,Pistol,Secondary,True,True
-361,Obex,Melee,Melee,False,False
-362,Ocucor,Pistol,Secondary,False,False
-363,Ogris,Rifle,Primary,False,False
-364,Ohma,Melee,Melee,False,False
-365,Okina,Melee,Melee,True,True
-366,Okina Prime,Melee,Melee,False,False
-367,Onorix,Arch-Melee,Arch-Melee,True,True
-368,Onos,Rifle,Secondary,False,False
-369,Ooltha,Zaw Component,Melee,False,False
-370,Ooltha,Zaw Component,Melee,False,False
-371,Opticor,Rifle,Primary,True,True
-372,Opticor Vandal,Rifle,Primary,False,False
-373,Orthos,Melee,Melee,True,True
-374,Orthos Prime,Melee,Melee,True,True
-375,Orvius,Melee,Melee,True,True
-376,Pandero,Pistol,Secondary,True,True
-377,Pandero Prime,Pistol,Secondary,False,False
-378,Pangolin Prime,Melee,Melee,False,False
-379,Pangolin Sword,Melee,Melee,True,True
-380,Panthera,Rifle,Primary,True,True
-381,Panthera Prime,Rifle,Primary,False,False
-382,Paracesis,Rifle,Melee,True,True
-383,Paracyst,Rifle,Primary,False,False
-384,Paris,Rifle,Primary,True,True
-385,Paris Prime,Rifle,Primary,False,False
-386,Pathocyst,Melee,Melee,False,False
-387,Pennant,Melee,Melee,False,False
-388,Penta,Rifle,Primary,True,True
-389,Perigale,Rifle,Primary,False,False
-390,Peye,Zaw Component,Melee,False,False
-391,Phaedra,Arch-Gun,Arch-Gun,False,False
-392,Phage,Shotgun,Primary,False,False
-393,Phantasma,Shotgun,Primary,True,True
-394,Phantasma Prime,Shotgun,Primary,False,False
-395,Phenmor,Rifle,Primary,True,True
-396,Plague Akwin,Zaw Component,Melee,False,False
-397,Plague Bokwin,Zaw Component,Melee,False,False
-398,Plague Keewar,Zaw Component,Melee,False,False
-399,Plague Keewar,Zaw Component,Melee,False,False
-400,Plague Kripath,Zaw Component,Melee,False,False
-401,Plague Kripath,Zaw Component,Melee,False,False
-402,Plasma Sword,Melee,Melee,True,True
-403,Plinx,Pistol,Secondary,False,False
-404,Pox,Pistol,Secondary,True,True
-405,Praedos,Melee,Melee,False,False
-406,Prisma Angstrum,Pistol,Secondary,False,False
-407,Prisma Dual Cleavers,Melee,Melee,False,False
-408,Prisma Dual Decurions,Arch-Gun,Arch-Gun,False,False
-409,Prisma Gorgon,Rifle,Primary,False,False
-410,Prisma Grakata,Rifle,Primary,False,False
-411,Prisma Grinlok,Rifle,Primary,False,False
-412,Prisma Lenz,Rifle,Primary,False,False
-413,Prisma Machete,Melee,Melee,False,False
-414,Prisma Obex,Melee,Melee,False,False
-415,Prisma Ohma,Melee,Melee,False,False
-416,Prisma Skana,Rifle,Melee,True,True
-417,Prisma Tetra,Rifle,Primary,False,False
-418,Prisma Twin Gremlins,Pistol,Secondary,False,False
-419,Prisma Veritux,Arch-Melee,Arch-Melee,False,False
-420,Proboscis Cernos,Rifle,Primary,False,False
-421,Prova,Rifle,Melee,False,False
-422,Prova Vandal,Rifle,Melee,False,False
-423,Pulmonars,Melee,Melee,False,False
-424,Pupacyst,Melee,Melee,False,False
-425,Purgator 1,Rifle,Primary,False,False
-426,Pyrana,Pistol,Secondary,False,False
-427,Pyrana Prime,Pistol,Secondary,False,False
-428,Quanta,Rifle,Primary,True,True
-429,Quanta Vandal,Rifle,Primary,True,True
-430,Quartakk,Rifle,Primary,True,True
-431,Quassus,Melee,Melee,False,False
-432,Quassus Prime,Melee,Melee,False,False
-433,Quatz,Pistol,Secondary,True,True
-434,Quellor,Rifle,Primary,True,True
-435,Rabvee,Zaw Component,Melee,True,True
-436,Rakta Ballistica,Pistol,Secondary,False,False
-437,Rakta Cernos,Rifle,Primary,False,False
-438,Rakta Dark Dagger,Melee,Melee,False,False
-439,Rathbone,Arch-Melee,Arch-Melee,False,False
-440,Rauta,Shotgun,Primary,False,False
-441,Reaper Prime,Melee,Melee,True,True
-442,Reconifex,Rifle,Primary,False,False
-443,Redeemer,Melee,Melee,False,False
-444,Redeemer Prime,Melee,Melee,False,False
-445,Riot-848,Pistol,Secondary,False,False
-446,Ripkas,Melee,Melee,True,True
-447,Rubico,Rifle,Primary,True,True
-448,Rubico Prime,Rifle,Primary,True,True
-449,Ruhang,Zaw Component,Melee,False,False
-450,Ruhang Ii,Zaw Component,Melee,False,False
-451,Rumblejack,Melee,Melee,True,True
-452,Ruvox,Rifle,Melee,False,False
-453,Sampotes,Melee,Melee,True,True
-454,Sancti Castanas,Pistol,Secondary,False,False
-455,Sancti Magistar,Melee,Melee,False,False
-456,Sancti Tigris,Rifle,Primary,False,False
-457,Sarofang,Melee,Melee,False,False
-458,Sarpa,Melee,Melee,True,True
-459,Scindo,Melee,Melee,True,True
-460,Scindo Prime,Melee,Melee,True,True
-461,Scoliac,Melee,Melee,False,False
-462,Scourge,Rifle,Primary,True,True
-463,Scourge Prime,Rifle,Primary,False,False
-464,Secura Dual Cestra,Pistol,Secondary,False,False
-465,Secura Lecta,Melee,Melee,False,False
-466,Secura Penta,Rifle,Primary,False,False
-467,Seekalla,Zaw Component,Melee,False,False
-468,Seer,Pistol,Secondary,True,True
-469,Sepfahn,Zaw Component,Melee,False,False
-470,Sepulcrum,Pistol,Secondary,False,False
-471,Serro,Melee,Melee,False,False
-472,Shaku,Melee,Melee,False,False
-473,Shedu,Rifle,Primary,False,False
-474,Sheev,Melee,Melee,True,True
-475,Shtung,Zaw Component,Melee,False,False
-476,Sibear,Melee,Melee,False,False
-477,Sicarus,Pistol,Secondary,True,True
-478,Sicarus Prime,Pistol,Secondary,True,True
-479,Sigma & Octantis,Melee,Melee,True,True
-480,Silva & Aegis,Melee,Melee,True,True
-481,Silva & Aegis Prime,Melee,Melee,False,False
-482,Simulor,Rifle,Primary,True,True
-483,Sirocco,Pistol,Primary,False,False
-484,Skana,Melee,Melee,True,True
-485,Skana Prime,Melee,Melee,False,False
-486,Skiajati,Melee,Melee,True,True
-487,Slaytra,Melee,Melee,False,False
-488,Snipetron,Rifle,Primary,True,True
-489,Snipetron Vandal,Rifle,Primary,True,True
-490,Sobek,Shotgun,Primary,True,True
-491,Soma,Rifle,Primary,True,True
-492,Soma Prime,Rifle,Primary,True,True
-493,Sonicor,Pistol,Secondary,True,True
-494,Spectra,Pistol,Secondary,True,True
-495,Spectra Vandal,Pistol,Secondary,False,False
-496,Spira,Throwing,Secondary,True,True
-497,Spira Prime,Throwing,Secondary,False,False
-498,Sporothrix,Rifle,Primary,False,False
-499,Stahlta,Rifle,Primary,False,False
-500,Staticor,Pistol,Secondary,False,False
-501,Steflos,Shotgun,Primary,False,False
-502,Stradavar,Rifle,Primary,True,True
-503,Stradavar Prime,Rifle,Primary,True,True
-504,Stropha,Melee,Melee,False,False
-505,Strun,Shotgun,Primary,True,True
-506,Strun Prime,Shotgun,Primary,True,True
-507,Strun Wraith,Shotgun,Primary,False,False
-508,Stubba,Pistol,Secondary,False,False
-509,Stug,Pistol,Secondary,True,True
-510,Sun & Moon,Melee,Melee,False,False
-511,Supra,Rifle,Primary,False,False
-512,Supra Vandal,Rifle,Primary,False,False
-513,Syam,Melee,Melee,False,False
-514,Sybaris,Rifle,Primary,True,True
-515,Sybaris Prime,Rifle,Primary,False,False
-516,Sydon,Melee,Melee,True,True
-517,Synapse,Rifle,Primary,False,False
-518,Synoid Gammacor,Pistol,Secondary,False,False
-519,Synoid Heliocor,Melee,Melee,False,False
-520,Synoid Simulor,Rifle,Primary,False,False
-521,Tak & Lug,Melee,Melee,False,False
-522,Talons,Throwing,Secondary,False,False
-523,Tatsu,Melee,Melee,True,True
-524,Tatsu Prime,Melee,Melee,False,False
-525,Tekko,Melee,Melee,False,False
-526,Tekko Prime,Melee,Melee,False,False
-527,Telos Akbolto,Pistol,Secondary,False,False
-528,Telos Boltace,Melee,Melee,False,False
-529,Telos Boltor,Rifle,Primary,False,False
-530,Tenet Agendus,Melee,Melee,False,False
-531,Tenet Arca Plasmor,Rifle,Primary,True,True
-532,Tenet Cycron,Pistol,Secondary,False,False
-533,Tenet Detron,Pistol,Secondary,True,False
-534,Tenet Diplos,Pistol,Secondary,False,False
-535,Tenet Envoy,Rifle,Primary,False,False
-536,Tenet Exec,Melee,Melee,False,False
-537,Tenet Ferrox,Rifle,Primary,False,False
-538,Tenet Flux Rifle,Rifle,Primary,False,False
-539,Tenet Glaxion,Rifle,Primary,False,False
-540,Tenet Grigori,Melee,Melee,False,False
-541,Tenet Livia,Melee,Melee,True,False
-542,Tenet Plinx,Pistol,Secondary,False,False
-543,Tenet Spirex,Pistol,Secondary,False,False
-544,Tenet Tetra,Rifle,Primary,False,False
-545,Tenora,Rifle,Primary,False,False
-546,Tenora Prime,Rifle,Primary,False,False
-547,Tetra,Rifle,Primary,True,True
-548,Tiberon,Rifle,Primary,False,False
-549,Tiberon Prime,Rifle,Primary,False,False
-550,Tigris,Shotgun,Primary,True,True
-551,Tigris Prime,Rifle,Primary,True,True
-552,Tipedo,Melee,Melee,True,True
-553,Tipedo Prime,Melee,Melee,False,False
-554,Tonbo,Melee,Melee,False,False
-555,Tonkkatt,Melee,Melee,False,False
-556,Tonkor,Rifle,Primary,True,True
-557,Torid,Rifle,Primary,True,True
-558,Trumna,Rifle,Primary,False,False
-559,Trumna Prime,Rifle,Primary,False,False
-560,Twin Basolk,Melee,Melee,True,True
-561,Twin Grakatas,Rifle,Secondary,True,True
-562,Twin Gremlins,Dual Pistols,Secondary,True,True
-563,Twin Kohmak,Pistol,Secondary,False,False
-564,Twin Krohkur,Melee,Melee,True,True
-565,Twin Rogga,Pistol,Secondary,False,False
-566,Twin Vipers,Dual Pistols,Secondary,True,True
-567,Twin Vipers Wraith,Pistol,Secondary,True,True
-568,Tysis,Pistol,Secondary,False,False
-569,Vargeet Ii Jai,Zaw Component,Melee,False,False
-570,Vargeet Ii Ruhang,Zaw Component,Melee,False,False
-571,Vargeet Jai,Zaw Component,Melee,False,False
-572,Vargeet Jai Ii,Zaw Component,Melee,False,False
-573,Vargeet Ruhang,Zaw Component,Melee,False,False
-574,Vargeet Ruhang Ii,Zaw Component,Melee,False,False
-575,Vastilok,Melee,Melee,False,False
-576,Vasto,Pistol,Secondary,True,True
-577,Vasto Prime,Pistol,Secondary,True,True
-578,Vaykor Hek,Rifle,Primary,False,False
-579,Vaykor Marelok,Pistol,Secondary,False,False
-580,Vaykor Sydon,Melee,Melee,False,False
-581,Vectis,Rifle,Primary,True,True
-582,Vectis Prime,Rifle,Primary,True,True
-583,Veldt,Rifle,Primary,False,False
-584,Velocitus,Arch-Gun,Arch-Gun,True,True
-585,Velox,Pistol,Secondary,False,False
-586,Velox Prime,Pistol,Secondary,False,False
-587,Venato,Rifle,Melee,False,False
-588,Venka,Melee,Melee,False,False
-589,Venka Prime,Melee,Melee,False,False
-590,Verdilac,Melee,Melee,False,False
-591,Vericres,Melee,Melee,True,True
-592,Veritux,Arch-Melee,Arch-Melee,True,True
-593,Vesper 77,Pistol,Secondary,False,False
-594,Viper,Pistol,Secondary,True,True
-595,Viper Wraith,Pistol,Secondary,False,False
-596,Vitrica,Melee,Melee,False,False
-597,Volnus,Melee,Melee,True,True
-598,Volnus Prime,Melee,Melee,False,False
-599,Vulkar,Rifle,Primary,True,True
-600,Vulkar Wraith,Rifle,Primary,False,False
-601,War,Melee,Melee,True,True
-602,Wolf Sledge,Melee,Melee,False,False
-603,Xoris,Melee,Melee,True,True
-604,Zakti,Pistol,Secondary,True,True
-605,Zakti Prime,Pistol,Secondary,True,True
-606,Zarr,Rifle,Primary,True,True
-607,Zenistar,Melee,Melee,True,True
-608,Zenith,Rifle,Primary,True,True
-609,Zhuge,Rifle,Primary,True,True
-610,Zhuge Prime,Rifle,Primary,True,True
-611,Zylok,Pistol,Secondary,True,True
-612,Zylok Prime,Pistol,Secondary,False,False
-613,Zymos,Pistol,Secondary,False,False
+,name,type,category,isPrime,obtained,max_rank
+0,Amesha,Archwing,Archwing,False,False,False
+1,Ash,Warframe,Warframes,False,True,True
+2,Ash Prime,Warframe,Warframes,True,True,True
+3,Atlas,Warframe,Warframes,False,False,False
+4,Atlas Prime,Warframe,Warframes,True,False,False
+5,Banshee,Warframe,Warframes,False,True,True
+6,Banshee Prime,Warframe,Warframes,True,True,True
+7,Baruuk,Warframe,Warframes,False,False,False
+8,Baruuk Prime,Warframe,Warframes,True,False,False
+9,Bonewidow,Warframe,Warframes,False,False,False
+10,Caliban,Warframe,Warframes,False,True,True
+11,Chroma,Warframe,Warframes,False,True,True
+12,Chroma Prime,Warframe,Warframes,True,True,True
+13,Citrine,Warframe,Warframes,False,False,False
+14,Cyte-09,Warframe,Warframes,False,False,False
+15,Dagath,Warframe,Warframes,False,False,False
+16,Dante,Warframe,Warframes,False,False,False
+17,Elytron,Archwing,Archwing,False,True,True
+18,Ember,Warframe,Warframes,False,True,True
+19,Ember Prime,Warframe,Warframes,True,True,True
+20,Equinox,Warframe,Warframes,False,True,True
+21,Equinox Prime,Warframe,Warframes,True,True,True
+22,Excalibur,Warframe,Warframes,False,True,True
+23,Excalibur Prime,Warframe,Warframes,True,False,False
+24,Excalibur Umbra,Warframe,Warframes,False,False,False
+25,Frost,Warframe,Warframes,False,True,True
+26,Frost Prime,Warframe,Warframes,True,True,True
+27,Gara,Warframe,Warframes,False,True,True
+28,Gara Prime,Warframe,Warframes,True,False,False
+29,Garuda,Warframe,Warframes,False,True,True
+30,Garuda Prime,Warframe,Warframes,True,False,False
+31,Gauss,Warframe,Warframes,False,True,True
+32,Gauss Prime,Warframe,Warframes,True,False,False
+33,Grendel,Warframe,Warframes,False,False,False
+34,Grendel Prime,Warframe,Warframes,True,False,False
+35,Gyre,Warframe,Warframes,False,True,True
+36,Harrow,Warframe,Warframes,False,True,True
+37,Harrow Prime,Warframe,Warframes,True,False,False
+38,Helminth,Warframe,Warframes,False,True,True
+39,Hildryn,Warframe,Warframes,False,False,False
+40,Hildryn Prime,Warframe,Warframes,True,False,False
+41,Hydroid,Warframe,Warframes,False,True,True
+42,Hydroid Prime,Warframe,Warframes,True,True,True
+43,Inaros,Warframe,Warframes,False,True,True
+44,Inaros Prime,Warframe,Warframes,True,False,False
+45,Itzal,Archwing,Archwing,False,True,False
+46,Ivara,Warframe,Warframes,False,True,True
+47,Ivara Prime,Warframe,Warframes,True,False,False
+48,Jade,Warframe,Warframes,False,True,True
+49,Khora,Warframe,Warframes,False,True,True
+50,Khora Prime,Warframe,Warframes,True,False,False
+51,Koumei,Warframe,Warframes,False,False,False
+52,Kullervo,Warframe,Warframes,False,False,False
+53,Lavos,Warframe,Warframes,False,True,True
+54,Lavos Prime,Warframe,Warframes,True,False,False
+55,Limbo,Warframe,Warframes,False,True,True
+56,Limbo Prime,Warframe,Warframes,True,True,True
+57,Loki,Warframe,Warframes,False,True,True
+58,Loki Prime,Warframe,Warframes,True,True,True
+59,Mag,Warframe,Warframes,False,True,True
+60,Mag Prime,Warframe,Warframes,True,True,True
+61,Mesa,Warframe,Warframes,False,True,True
+62,Mesa Prime,Warframe,Warframes,True,True,True
+63,Mirage,Warframe,Warframes,False,True,True
+64,Mirage Prime,Warframe,Warframes,True,True,True
+65,Nekros,Warframe,Warframes,False,True,True
+66,Nekros Prime,Warframe,Warframes,True,True,True
+67,Nezha,Warframe,Warframes,False,False,False
+68,Nezha Prime,Warframe,Warframes,True,False,False
+69,Nidus,Warframe,Warframes,False,True,True
+70,Nidus Prime,Warframe,Warframes,True,True,True
+71,Nova,Warframe,Warframes,False,True,True
+72,Nova Prime,Warframe,Warframes,True,True,True
+73,Nyx,Warframe,Warframes,False,True,True
+74,Nyx Prime,Warframe,Warframes,True,True,True
+75,Oberon,Warframe,Warframes,False,True,True
+76,Oberon Prime,Warframe,Warframes,True,True,True
+77,Octavia,Warframe,Warframes,False,False,False
+78,Octavia Prime,Warframe,Warframes,True,False,False
+79,Odonata,Archwing,Archwing,False,True,True
+80,Odonata Prime,Archwing,Archwing,True,True,False
+81,Protea,Warframe,Warframes,False,True,True
+82,Protea Prime,Warframe,Warframes,True,True,True
+83,Qorvex,Warframe,Warframes,False,False,False
+84,Revenant,Warframe,Warframes,False,True,True
+85,Revenant Prime,Warframe,Warframes,True,True,True
+86,Rhino,Warframe,Warframes,False,True,True
+87,Rhino Prime,Warframe,Warframes,True,True,True
+88,Saryn,Warframe,Warframes,False,True,True
+89,Saryn Prime,Warframe,Warframes,True,True,True
+90,Sevagoth,Warframe,Warframes,False,True,True
+91,Sevagoth Prime,Warframe,Warframes,True,True,True
+92,Styanax,Warframe,Warframes,False,True,True
+93,Temple,Warframe,Warframes,False,False,False
+94,Titania,Warframe,Warframes,False,True,True
+95,Titania Prime,Warframe,Warframes,True,True,True
+96,Trinity,Warframe,Warframes,False,True,True
+97,Trinity Prime,Warframe,Warframes,True,True,True
+98,Valkyr,Warframe,Warframes,False,True,True
+99,Valkyr Prime,Warframe,Warframes,True,False,False
+100,Vauban,Warframe,Warframes,False,True,True
+101,Vauban Prime,Warframe,Warframes,True,False,False
+102,Voidrig,Warframe,Warframes,False,True,False
+103,Volt,Warframe,Warframes,False,True,True
+104,Volt Prime,Warframe,Warframes,True,True,True
+105,Voruna,Warframe,Warframes,False,False,False
+106,Wisp,Warframe,Warframes,False,True,True
+107,Wisp Prime,Warframe,Warframes,True,True,True
+108,Wukong,Warframe,Warframes,False,False,False
+109,Wukong Prime,Warframe,Warframes,True,False,False
+110,Xaku,Warframe,Warframes,False,False,False
+111,Xaku Prime,Warframe,Warframes,True,False,False
+112,Yareli,Warframe,Warframes,False,False,False
+113,Zephyr,Warframe,Warframes,False,False,False
+114,Zephyr Prime,Warframe,Warframes,True,False,False
+115,Acceltra,Rifle,Primary,False,True,True
+116,Acceltra Prime,Rifle,Primary,True,True,True
+117,Ack & Brunt,Melee,Melee,False,False,False
+118,Acrid,Pistol,Secondary,False,False,False
+119,Aegrit,Throwing,Secondary,False,False,False
+120,Aeolak,Rifle,Primary,False,False,False
+121,Afentis,Rifle,Primary,False,False,False
+122,Afuris,Dual Pistols,Secondary,False,True,True
+123,Afuris Prime,Pistol,Secondary,True,False,False
+124,Agkuza,Arch-Melee,Arch-Melee,False,False,False
+125,Akarius,Pistol,Secondary,False,False,False
+126,Akarius Prime,Pistol,Secondary,True,False,False
+127,Akbolto,Dual Pistols,Secondary,False,False,False
+128,Akbolto Prime,Pistol,Secondary,True,False,False
+129,Akbronco,Dual Pistols,Secondary,False,True,True
+130,Akbronco Prime,Dual Pistols,Secondary,True,True,True
+131,Akjagara,Pistol,Secondary,False,False,False
+132,Akjagara Prime,Pistol,Secondary,True,False,False
+133,Aklato,Dual Pistols,Secondary,False,False,False
+134,Aklex,Dual Pistols,Secondary,False,True,True
+135,Aklex Prime,Dual Pistols,Secondary,True,True,True
+136,Akmagnus,Dual Pistols,Secondary,False,False,False
+137,Akmagnus Prime,Dual Pistols,Secondary,True,False,False
+138,Aksomati,Pistol,Secondary,False,True,True
+139,Aksomati Prime,Pistol,Secondary,True,False,False
+140,Akstiletto,Pistol,Secondary,False,True,True
+141,Akstiletto Prime,Pistol,Secondary,True,True,True
+142,Akvasto,Dual Pistols,Secondary,False,True,True
+143,Akvasto Prime,Pistol,Secondary,True,False,False
+144,Akzani,Pistol,Secondary,False,True,True
+145,Alternox,Rifle,Primary,False,False,False
+146,Amanata,Melee,Melee,False,False,False
+147,Ambassador,Rifle,Primary,False,False,False
+148,Amphis,Melee,Melee,False,True,True
+149,Amprex,Rifle,Primary,False,True,True
+150,Angstrum,Pistol,Secondary,False,False,False
+151,Anku,Melee,Melee,False,False,False
+152,Ankyros,Melee,Melee,False,True,True
+153,Ankyros Prime,Melee,Melee,True,True,True
+154,Arca Plasmor,Shotgun,Primary,False,True,True
+155,Arca Scisco,Pistol,Secondary,False,True,True
+156,Arca Titron,Melee,Melee,False,True,True
+157,Argo & Vel,Melee,Melee,False,False,False
+158,Argonak,Rifle,Primary,False,True,True
+159,Arum Spinosa,Melee,Melee,False,False,False
+160,Astilla,Shotgun,Primary,False,True,True
+161,Astilla Prime,Rifle,Primary,True,False,False
+162,Athodai,Pistol,Secondary,False,True,True
+163,Atomos,Pistol,Secondary,False,True,True
+164,Atterax,Melee,Melee,False,True,True
+165,Attica,Rifle,Primary,False,False,False
+166,Ax-52,Rifle,Primary,False,False,False
+167,Azima,Pistol,Secondary,False,True,True
+168,Azothane,Melee,Melee,False,False,False
+169,Balla,Zaw Component,Melee,False,True,True
+170,Balla,Zaw Component,Melee,False,False,False
+171,Ballistica,Pistol,Secondary,False,True,True
+172,Ballistica Prime,Pistol,Secondary,True,True,True
+173,Basmu,Rifle,Primary,False,True,True
+174,Battacor,Rifle,Primary,False,False,False
+175,Baza,Rifle,Primary,False,True,True
+176,Baza Prime,Rifle,Primary,True,False,False
+177,Bo,Melee,Melee,False,True,True
+178,Bo Prime,Melee,Melee,True,True,True
+179,Boar,Shotgun,Primary,False,True,True
+180,Boar Prime,Shotgun,Primary,True,False,False
+181,Boltace,Melee,Melee,False,True,True
+182,Bolto,Pistol,Secondary,False,True,True
+183,Boltor,Rifle,Primary,False,False,False
+184,Boltor Prime,Rifle,Primary,True,False,False
+185,Brakk,Pistol,Secondary,False,True,False
+186,Braton,Rifle,Primary,False,True,True
+187,Braton Prime,Rifle,Primary,True,True,True
+188,Braton Vandal,Rifle,Primary,False,False,False
+189,Broken Scepter,Melee,Melee,False,True,True
+190,Broken War,Melee,Melee,False,True,True
+191,Bronco,Pistol,Secondary,False,True,True
+192,Bronco Prime,Pistol,Secondary,True,True,True
+193,Bubonico,Rifle,Primary,False,False,False
+194,Burston,Rifle,Primary,False,True,True
+195,Burston Prime,Rifle,Primary,True,True,True
+196,Buzlok,Rifle,Primary,False,False,False
+197,Cadus,Melee,Melee,False,False,False
+198,Cantare,Throwing,Secondary,False,False,False
+199,Carmine Penta,Rifle,Primary,False,False,False
+200,Cassowar,Melee,Melee,False,False,False
+201,Castanas,Throwing,Secondary,False,False,False
+202,Catabolyst,Pistol,Secondary,False,False,False
+203,Caustacyst,Melee,Melee,False,False,False
+204,Cedo,Shotgun,Primary,False,False,False
+205,Cedo Prime,Rifle,Primary,True,False,False
+206,Centaur,Arch-Melee,Arch-Melee,False,False,False
+207,Ceramic Dagger,Melee,Melee,False,True,True
+208,Cerata,Melee,Melee,False,False,False
+209,Cernos,Rifle,Primary,False,True,True
+210,Cernos Prime,Rifle,Primary,True,True,True
+211,Cestra,Pistol,Secondary,False,True,True
+212,Ceti Lacera,Melee,Melee,False,True,True
+213,Cinta,Rifle,Primary,False,False,False
+214,Cobra & Crane,Melee,Melee,False,True,True
+215,Cobra & Crane Prime,Melee,Melee,True,False,False
+216,Coda Bassocyst,Shotgun,Primary,False,False,False
+217,Coda Catabolyst,Pistol,Secondary,False,False,False
+218,Coda Caustacyst,Melee,Melee,False,False,False
+219,Coda Hema,Rifle,Primary,False,False,False
+220,Coda Hirudo,Melee,Melee,False,False,False
+221,Coda Mire,Melee,Melee,False,False,False
+222,Coda Motovore,Melee,Melee,False,False,False
+223,Coda Pathocyst,Melee,Melee,False,False,False
+224,Coda Pox,Pistol,Secondary,False,False,False
+225,Coda Sporothrix,Rifle,Primary,False,True,False
+226,Coda Synapse,Rifle,Primary,False,True,True
+227,Coda Tysis,Pistol,Secondary,False,False,False
+228,Convectrix,Rifle,Primary,False,False,False
+229,Corinth,Shotgun,Primary,False,False,False
+230,Corinth Prime,Rifle,Primary,True,False,False
+231,Cortege,Arch-Gun,Arch-Gun,False,False,False
+232,Corufell,Melee,Melee,False,False,False
+233,Corvas,Arch-Gun,Arch-Gun,False,False,False
+234,Corvas Prime,Arch-Gun,Arch-Gun,True,False,False
+235,Cronus,Melee,Melee,False,True,True
+236,Cyanex,Pistol,Secondary,False,False,False
+237,Cyath,Zaw Component,Melee,False,True,True
+238,Cyath,Zaw Component,Melee,False,False,False
+239,Cycron,Pistol,Secondary,False,False,False
+240,Cyngas,Arch-Gun,Arch-Gun,False,False,False
+241,Daikyu,Rifle,Primary,False,False,False
+242,Dakra Prime,Melee,Melee,True,True,True
+243,Dark Dagger,Melee,Melee,False,True,True
+244,Dark Split-Sword,Melee,Melee,False,False,False
+245,Dark Sword,Melee,Melee,False,True,True
+246,Dehtat,Zaw Component,Melee,False,False,False
+247,Dehtat,Zaw Component,Melee,False,False,False
+248,Dera,Rifle,Primary,False,True,True
+249,Dera Vandal,Rifle,Primary,False,True,True
+250,Despair,Throwing,Secondary,False,True,True
+251,Destreza,Melee,Melee,False,True,True
+252,Destreza Prime,Melee,Melee,True,False,False
+253,Detron,Pistol,Secondary,False,True,True
+254,Dex Dakra,Melee,Melee,False,True,True
+255,Dex Furis,Pistol,Secondary,False,True,True
+256,Dex Nikana,Melee,Melee,False,True,True
+257,Dex Sybaris,Rifle,Primary,False,True,True
+258,Dokrahm,Zaw Component,Melee,False,False,False
+259,Dorrclave,Melee,Melee,False,False,False
+260,Dragon Nikana,Melee,Melee,False,True,True
+261,Drakgoon,Rifle,Primary,False,True,True
+262,Dread,Rifle,Primary,False,True,True
+263,Dual Cestra,Pistol,Secondary,False,False,False
+264,Dual Cleavers,Melee,Melee,False,True,True
+265,Dual Coda Torxica,Pistol,Secondary,False,False,False
+266,Dual Decurion,Arch-Gun,Arch-Gun,False,False,False
+267,Dual Ether,Melee,Melee,False,True,True
+268,Dual Heat Swords,Melee,Melee,False,True,True
+269,Dual Ichor,Melee,Melee,False,False,False
+270,Dual Kamas,Melee,Melee,False,True,True
+271,Dual Kamas Prime,Melee,Melee,True,False,False
+272,Dual Keres,Melee,Melee,False,True,True
+273,Dual Keres Prime,Melee,Melee,True,False,False
+274,Dual Raza,Melee,Melee,False,False,False
+275,Dual Skana,Melee,Melee,False,True,True
+276,Dual Toxocyst,Pistol,Secondary,False,True,True
+277,Dual Viciss,Rifle,Melee,False,False,False
+278,Dual Zoren,Melee,Melee,False,True,True
+279,Dual Zoren Prime,Melee,Melee,True,False,False
+280,Edun,Melee,Melee,False,False,False
+281,Efv-5 Jupiter,Rifle,Primary,False,False,False
+282,Efv-8 Mars,Pistol,Secondary,False,False,False
+283,Ekhein,Rifle,Melee,False,False,False
+284,Ekwana Ii Jai,Zaw Component,Melee,False,False,False
+285,Ekwana Ii Ruhang,Zaw Component,Melee,False,False,False
+286,Ekwana Jai,Zaw Component,Melee,False,False,False
+287,Ekwana Jai Ii,Zaw Component,Melee,False,False,False
+288,Ekwana Ruhang,Zaw Component,Melee,False,False,False
+289,Ekwana Ruhang Ii,Zaw Component,Melee,False,False,False
+290,Embolist,Pistol,Secondary,False,False,False
+291,Endura,Melee,Melee,False,False,False
+292,Epitaph,Pistol,Secondary,False,True,True
+293,Epitaph Prime,Pistol,Secondary,True,True,True
+294,Ether Daggers,Melee,Melee,False,True,True
+295,Ether Reaper,Melee,Melee,False,True,True
+296,Ether Sword,Melee,Melee,False,True,False
+297,Euphona Prime,Pistol,Secondary,True,False,False
+298,Evensong,Rifle,Primary,False,False,False
+299,Exergis,Shotgun,Primary,False,True,True
+300,Falcor,Melee,Melee,False,False,False
+301,Fang,Melee,Melee,False,True,True
+302,Fang Prime,Melee,Melee,True,True,True
+303,Felarx,Shotgun,Primary,False,False,False
+304,Ferrox,Rifle,Primary,False,False,False
+305,Fluctus,Arch-Gun,Arch-Gun,False,True,True
+306,Flux Rifle,Rifle,Primary,False,True,True
+307,Fragor,Melee,Melee,False,True,True
+308,Fragor Prime,Melee,Melee,True,True,True
+309,Fulmin,Rifle,Primary,False,True,True
+310,Fulmin Prime,Rifle,Primary,True,False,False
+311,Furax,Melee,Melee,False,True,True
+312,Furax Wraith,Melee,Melee,False,True,True
+313,Furis,Pistol,Secondary,False,True,True
+314,Fusilai,Throwing,Secondary,False,True,True
+315,Galatine,Melee,Melee,False,True,True
+316,Galatine Prime,Melee,Melee,True,True,True
+317,Galvacord,Melee,Melee,False,False,False
+318,Gammacor,Pistol,Secondary,False,True,True
+319,Gazal Machete,Melee,Melee,False,False,False
+320,Ghoulsaw,Melee,Melee,False,False,False
+321,Glaive,Melee,Melee,False,True,True
+322,Glaive Prime,Melee,Melee,True,True,True
+323,Glaxion,Rifle,Primary,False,True,True
+324,Glaxion Vandal,Rifle,Primary,False,False,False
+325,Gorgon,Rifle,Primary,False,True,True
+326,Gorgon Wraith,Rifle,Primary,False,True,True
+327,Gotva Prime,Rifle,Primary,True,True,True
+328,Grakata,Rifle,Primary,False,True,True
+329,Gram,Melee,Melee,False,True,True
+330,Gram Prime,Melee,Melee,True,False,False
+331,Grattler,Arch-Gun,Arch-Gun,False,True,True
+332,Grimoire,Rifle,Secondary,False,True,True
+333,Grimoire,Rifle,Secondary,False,False,False
+334,Grinlok,Rifle,Primary,False,True,True
+335,Guandao,Melee,Melee,False,True,True
+336,Guandao Prime,Melee,Melee,True,True,True
+337,Gunsen,Melee,Melee,False,True,True
+338,Gunsen Prime,Melee,Melee,True,False,False
+339,Halikar,Melee,Melee,False,False,False
+340,Halikar Wraith,Melee,Melee,False,False,False
+341,Harmony,Melee,Melee,False,False,False
+342,Harpak,Rifle,Primary,False,True,True
+343,Hate,Melee,Melee,False,True,True
+344,Heat Dagger,Melee,Melee,False,True,True
+345,Heat Sword,Melee,Melee,False,True,True
+346,Hek,Shotgun,Primary,False,True,True
+347,Heliocor,Melee,Melee,False,False,False
+348,Hema,Rifle,Primary,False,False,False
+349,Hespar,Melee,Melee,False,False,False
+350,Higasa,Rifle,Primary,False,False,False
+351,Hikou,Throwing,Secondary,False,True,True
+352,Hikou Prime,Throwing,Secondary,True,True,True
+353,Hind,Rifle,Primary,False,False,False
+354,Hirudo,Melee,Melee,False,True,True
+355,Hystrix,Pistol,Secondary,False,False,False
+356,Hystrix Prime,Pistol,Secondary,True,False,False
+357,Ignis,Rifle,Primary,False,True,True
+358,Ignis Wraith,Rifle,Primary,False,False,False
+359,Imperator,Arch-Gun,Arch-Gun,False,True,True
+360,Imperator Vandal,Arch-Gun,Arch-Gun,False,False,False
+361,Innodem,Melee,Melee,False,True,True
+362,Jai,Zaw Component,Melee,False,False,False
+363,Jai Ii,Zaw Component,Melee,False,False,False
+364,Jat Kittag,Melee,Melee,False,False,False
+365,Jat Kusar,Melee,Melee,False,True,True
+366,Javlok,Rifle,Primary,False,False,False
+367,Jaw Sword,Melee,Melee,False,True,True
+368,Jayap,Zaw Component,Melee,False,False,False
+369,Kama,Melee,Melee,False,True,True
+370,Karak,Rifle,Primary,False,True,True
+371,Karak Wraith,Rifle,Primary,False,False,False
+372,Karyst,Melee,Melee,False,True,True
+373,Karyst Prime,Melee,Melee,True,True,True
+374,Kaszas,Arch-Melee,Arch-Melee,False,False,False
+375,Keratinos,Melee,Melee,False,False,False
+376,Kesheg,Melee,Melee,False,False,False
+377,Kestrel,Melee,Melee,False,True,True
+378,Knell,Pistol,Secondary,False,True,True
+379,Knell Prime,Pistol,Secondary,True,True,True
+380,Knux,Arch-Melee,Arch-Melee,False,False,False
+381,Kogake,Melee,Melee,False,True,True
+382,Kogake Prime,Melee,Melee,True,True,True
+383,Kohm,Rifle,Primary,False,True,True
+384,Kohmak,Pistol,Secondary,False,False,False
+385,Komorex,Rifle,Primary,False,False,False
+386,Kompressa,Pistol,Secondary,False,False,False
+387,Korb,Zaw Component,Melee,False,False,False
+388,Korrudo,Melee,Melee,False,False,False
+389,Korumm,Melee,Melee,False,False,False
+390,Kraken,Pistol,Secondary,False,True,True
+391,Kreska,Melee,Melee,False,False,False
+392,Krohkur,Melee,Melee,False,True,True
+393,Kronen,Melee,Melee,False,True,True
+394,Kronen Prime,Melee,Melee,True,False,False
+395,Kronsh,Zaw Component,Melee,False,True,True
+396,Kronsh,Zaw Component,Melee,False,False,False
+397,Kroostra,Zaw Component,Melee,False,False,False
+398,Kulstar,Pistol,Secondary,False,True,True
+399,Kunai,Throwing,Secondary,False,True,True
+400,Kuva Ayanga,Arch-Gun,Arch-Gun,False,False,False
+401,Kuva Brakk,Rifle,Secondary,False,False,False
+402,Kuva Bramma,Rifle,Primary,False,True,False
+403,Kuva Chakkhurr,Rifle,Primary,False,False,False
+404,Kuva Drakgoon,Rifle,Primary,False,False,False
+405,Kuva Grattler,Arch-Gun,Arch-Gun,False,False,False
+406,Kuva Hek,Rifle,Primary,False,False,False
+407,Kuva Hind,Rifle,Primary,False,False,False
+408,Kuva Karak,Rifle,Primary,False,False,False
+409,Kuva Kohm,Rifle,Primary,False,True,False
+410,Kuva Kraken,Rifle,Secondary,False,False,False
+411,Kuva Nukor,Rifle,Secondary,False,True,True
+412,Kuva Ogris,Rifle,Primary,False,False,False
+413,Kuva Quartakk,Rifle,Primary,False,True,False
+414,Kuva Seer,Rifle,Secondary,False,True,True
+415,Kuva Shildeg,Melee,Melee,False,False,False
+416,Kuva Sobek,Rifle,Primary,False,False,False
+417,Kuva Tonkor,Rifle,Primary,False,True,False
+418,Kuva Twin Stubbas,Rifle,Secondary,False,False,False
+419,Kuva Zarr,Rifle,Primary,False,False,False
+420,Kwath,Zaw Component,Melee,False,False,False
+421,Lacera,Melee,Melee,False,False,False
+422,Laetum,Pistol,Secondary,False,True,True
+423,Laka,Zaw Component,Melee,False,False,False
+424,Lanka,Rifle,Primary,False,True,True
+425,Larkspur,Arch-Gun,Arch-Gun,False,False,False
+426,Larkspur Prime,Arch-Gun,Arch-Gun,True,False,False
+427,Lato,Pistol,Secondary,False,True,False
+428,Lato Prime,Pistol,Secondary,True,False,False
+429,Lato Vandal,Pistol,Secondary,False,False,False
+430,Latron,Rifle,Primary,False,True,True
+431,Latron Prime,Rifle,Primary,True,False,False
+432,Latron Wraith,Rifle,Primary,False,True,True
+433,Lecta,Melee,Melee,False,True,True
+434,Lenz,Rifle,Primary,False,True,True
+435,Lesion,Melee,Melee,False,True,True
+436,Lex,Pistol,Secondary,False,True,True
+437,Lex Prime,Pistol,Secondary,True,True,True
+438,Machete,Melee,Melee,False,True,True
+439,Machete Wraith,Melee,Melee,False,False,False
+440,Magistar,Melee,Melee,False,True,True
+441,Magnus,Pistol,Secondary,False,False,False
+442,Magnus Prime,Pistol,Secondary,True,False,False
+443,Mandonel,Arch-Gun,Arch-Gun,False,False,False
+444,Mara Detron,Rifle,Secondary,False,False,False
+445,Marelok,Pistol,Secondary,False,False,False
+446,Masseter,Melee,Melee,False,True,True
+447,Masseter Prime,Melee,Melee,True,False,False
+448,Mausolon,Arch-Gun,Arch-Gun,False,True,True
+449,Mewan,Zaw Component,Melee,False,False,False
+450,Mewan,Zaw Component,Melee,False,False,False
+451,Mios,Melee,Melee,False,True,True
+452,Mire,Melee,Melee,False,True,True
+453,Miter,Rifle,Primary,False,True,True
+454,Mk1-Bo,Rifle,Melee,False,False,False
+455,Mk1-Braton,Rifle,Primary,False,False,False
+456,Mk1-Furax,Rifle,Melee,False,False,False
+457,Mk1-Furis,Rifle,Secondary,False,False,False
+458,Mk1-Kunai,Rifle,Secondary,False,False,False
+459,Mk1-Paris,Rifle,Primary,False,True,True
+460,Mk1-Strun,Rifle,Primary,False,False,False
+461,Morgha,Arch-Gun,Arch-Gun,False,False,False
+462,Mutalist Cernos,Rifle,Primary,False,False,False
+463,Mutalist Quanta,Rifle,Primary,False,False,False
+464,Nagantaka,Rifle,Primary,False,True,True
+465,Nagantaka Prime,Rifle,Primary,True,False,False
+466,Nami Skyla,Melee,Melee,False,False,False
+467,Nami Skyla Prime,Melee,Melee,True,False,False
+468,Nami Solo,Melee,Melee,False,True,True
+469,Nataruk,Rifle,Primary,False,True,True
+470,Nepheri,Melee,Melee,False,False,False
+471,Nikana,Melee,Melee,False,True,True
+472,Nikana Prime,Melee,Melee,True,True,True
+473,Ninkondi,Melee,Melee,False,False,False
+474,Ninkondi Prime,Melee,Melee,True,False,False
+475,Nukor,Pistol,Secondary,False,True,True
+476,Obex,Melee,Melee,False,False,False
+477,Ocucor,Pistol,Secondary,False,False,False
+478,Ogris,Rifle,Primary,False,False,False
+479,Ohma,Melee,Melee,False,False,False
+480,Okina,Melee,Melee,False,True,True
+481,Okina Prime,Melee,Melee,True,False,False
+482,Onorix,Arch-Melee,Arch-Melee,False,True,True
+483,Onos,Rifle,Secondary,False,False,False
+484,Ooltha,Zaw Component,Melee,False,False,False
+485,Ooltha,Zaw Component,Melee,False,False,False
+486,Opticor,Rifle,Primary,False,True,True
+487,Opticor Vandal,Rifle,Primary,False,False,False
+488,Orthos,Melee,Melee,False,True,True
+489,Orthos Prime,Melee,Melee,True,True,True
+490,Orvius,Melee,Melee,False,True,True
+491,Pandero,Pistol,Secondary,False,True,True
+492,Pandero Prime,Pistol,Secondary,True,False,False
+493,Pangolin Prime,Melee,Melee,True,False,False
+494,Pangolin Sword,Melee,Melee,False,True,True
+495,Panthera,Rifle,Primary,False,True,True
+496,Panthera Prime,Rifle,Primary,True,False,False
+497,Paracesis,Rifle,Melee,False,True,True
+498,Paracyst,Rifle,Primary,False,False,False
+499,Paris,Rifle,Primary,False,True,True
+500,Paris Prime,Rifle,Primary,True,False,False
+501,Pathocyst,Melee,Melee,False,False,False
+502,Pennant,Melee,Melee,False,False,False
+503,Penta,Rifle,Primary,False,True,True
+504,Perigale,Rifle,Primary,False,False,False
+505,Peye,Zaw Component,Melee,False,False,False
+506,Phaedra,Arch-Gun,Arch-Gun,False,False,False
+507,Phage,Shotgun,Primary,False,False,False
+508,Phantasma,Shotgun,Primary,False,True,True
+509,Phantasma Prime,Shotgun,Primary,True,False,False
+510,Phenmor,Rifle,Primary,False,True,True
+511,Plague Akwin,Zaw Component,Melee,False,False,False
+512,Plague Bokwin,Zaw Component,Melee,False,False,False
+513,Plague Keewar,Zaw Component,Melee,False,False,False
+514,Plague Keewar,Zaw Component,Melee,False,False,False
+515,Plague Kripath,Zaw Component,Melee,False,False,False
+516,Plague Kripath,Zaw Component,Melee,False,False,False
+517,Plasma Sword,Melee,Melee,False,True,True
+518,Plinx,Pistol,Secondary,False,False,False
+519,Pox,Pistol,Secondary,False,True,True
+520,Praedos,Melee,Melee,False,False,False
+521,Prisma Angstrum,Pistol,Secondary,False,False,False
+522,Prisma Dual Cleavers,Melee,Melee,False,False,False
+523,Prisma Dual Decurions,Arch-Gun,Arch-Gun,False,False,False
+524,Prisma Gorgon,Rifle,Primary,False,False,False
+525,Prisma Grakata,Rifle,Primary,False,False,False
+526,Prisma Grinlok,Rifle,Primary,False,False,False
+527,Prisma Lenz,Rifle,Primary,False,False,False
+528,Prisma Machete,Melee,Melee,False,False,False
+529,Prisma Obex,Melee,Melee,False,False,False
+530,Prisma Ohma,Melee,Melee,False,False,False
+531,Prisma Skana,Rifle,Melee,False,True,True
+532,Prisma Tetra,Rifle,Primary,False,False,False
+533,Prisma Twin Gremlins,Pistol,Secondary,False,False,False
+534,Prisma Veritux,Arch-Melee,Arch-Melee,False,False,False
+535,Proboscis Cernos,Rifle,Primary,False,False,False
+536,Prova,Rifle,Melee,False,False,False
+537,Prova Vandal,Rifle,Melee,False,False,False
+538,Pulmonars,Melee,Melee,False,False,False
+539,Pupacyst,Melee,Melee,False,False,False
+540,Purgator 1,Rifle,Primary,False,False,False
+541,Pyrana,Pistol,Secondary,False,False,False
+542,Pyrana Prime,Pistol,Secondary,True,False,False
+543,Quanta,Rifle,Primary,False,True,True
+544,Quanta Vandal,Rifle,Primary,False,True,True
+545,Quartakk,Rifle,Primary,False,True,True
+546,Quassus,Melee,Melee,False,False,False
+547,Quassus Prime,Melee,Melee,True,False,False
+548,Quatz,Pistol,Secondary,False,True,True
+549,Quellor,Rifle,Primary,False,True,True
+550,Rabvee,Zaw Component,Melee,False,True,True
+551,Rakta Ballistica,Pistol,Secondary,False,False,False
+552,Rakta Cernos,Rifle,Primary,False,False,False
+553,Rakta Dark Dagger,Melee,Melee,False,False,False
+554,Rathbone,Arch-Melee,Arch-Melee,False,False,False
+555,Rauta,Shotgun,Primary,False,False,False
+556,Reaper Prime,Melee,Melee,True,True,True
+557,Reconifex,Rifle,Primary,False,False,False
+558,Redeemer,Melee,Melee,False,False,False
+559,Redeemer Prime,Melee,Melee,True,False,False
+560,Riot-848,Pistol,Secondary,False,False,False
+561,Ripkas,Melee,Melee,False,True,True
+562,Rubico,Rifle,Primary,False,True,True
+563,Rubico Prime,Rifle,Primary,True,True,True
+564,Ruhang,Zaw Component,Melee,False,False,False
+565,Ruhang Ii,Zaw Component,Melee,False,False,False
+566,Rumblejack,Melee,Melee,False,True,True
+567,Ruvox,Rifle,Melee,False,False,False
+568,Sampotes,Melee,Melee,False,True,True
+569,Sancti Castanas,Pistol,Secondary,False,False,False
+570,Sancti Magistar,Melee,Melee,False,False,False
+571,Sancti Tigris,Rifle,Primary,False,False,False
+572,Sarofang,Melee,Melee,False,False,False
+573,Sarpa,Melee,Melee,False,True,True
+574,Scindo,Melee,Melee,False,True,True
+575,Scindo Prime,Melee,Melee,True,True,True
+576,Scoliac,Melee,Melee,False,False,False
+577,Scourge,Rifle,Primary,False,True,True
+578,Scourge Prime,Rifle,Primary,True,False,False
+579,Secura Dual Cestra,Pistol,Secondary,False,False,False
+580,Secura Lecta,Melee,Melee,False,False,False
+581,Secura Penta,Rifle,Primary,False,False,False
+582,Seekalla,Zaw Component,Melee,False,False,False
+583,Seer,Pistol,Secondary,False,True,True
+584,Sepfahn,Zaw Component,Melee,False,False,False
+585,Sepulcrum,Pistol,Secondary,False,False,False
+586,Serro,Melee,Melee,False,False,False
+587,Shaku,Melee,Melee,False,False,False
+588,Shedu,Rifle,Primary,False,False,False
+589,Sheev,Melee,Melee,False,True,True
+590,Shtung,Zaw Component,Melee,False,False,False
+591,Sibear,Melee,Melee,False,False,False
+592,Sicarus,Pistol,Secondary,False,True,True
+593,Sicarus Prime,Pistol,Secondary,True,True,True
+594,Sigma & Octantis,Melee,Melee,False,True,True
+595,Silva & Aegis,Melee,Melee,False,True,True
+596,Silva & Aegis Prime,Melee,Melee,True,False,False
+597,Simulor,Rifle,Primary,False,True,True
+598,Sirocco,Pistol,Primary,False,False,False
+599,Skana,Melee,Melee,False,True,True
+600,Skana Prime,Melee,Melee,True,False,False
+601,Skiajati,Melee,Melee,False,True,True
+602,Slaytra,Melee,Melee,False,False,False
+603,Snipetron,Rifle,Primary,False,True,True
+604,Snipetron Vandal,Rifle,Primary,False,True,True
+605,Sobek,Shotgun,Primary,False,True,True
+606,Soma,Rifle,Primary,False,True,True
+607,Soma Prime,Rifle,Primary,True,True,True
+608,Sonicor,Pistol,Secondary,False,True,True
+609,Spectra,Pistol,Secondary,False,True,True
+610,Spectra Vandal,Pistol,Secondary,False,False,False
+611,Spira,Throwing,Secondary,False,True,True
+612,Spira Prime,Throwing,Secondary,True,False,False
+613,Sporothrix,Rifle,Primary,False,False,False
+614,Stahlta,Rifle,Primary,False,False,False
+615,Staticor,Pistol,Secondary,False,False,False
+616,Steflos,Shotgun,Primary,False,False,False
+617,Stradavar,Rifle,Primary,False,True,True
+618,Stradavar Prime,Rifle,Primary,True,True,True
+619,Stropha,Melee,Melee,False,False,False
+620,Strun,Shotgun,Primary,False,True,True
+621,Strun Prime,Shotgun,Primary,True,True,True
+622,Strun Wraith,Shotgun,Primary,False,False,False
+623,Stubba,Pistol,Secondary,False,False,False
+624,Stug,Pistol,Secondary,False,True,True
+625,Sun & Moon,Melee,Melee,False,False,False
+626,Supra,Rifle,Primary,False,False,False
+627,Supra Vandal,Rifle,Primary,False,False,False
+628,Syam,Melee,Melee,False,False,False
+629,Sybaris,Rifle,Primary,False,True,True
+630,Sybaris Prime,Rifle,Primary,True,False,False
+631,Sydon,Melee,Melee,False,True,True
+632,Synapse,Rifle,Primary,False,False,False
+633,Synoid Gammacor,Pistol,Secondary,False,False,False
+634,Synoid Heliocor,Melee,Melee,False,False,False
+635,Synoid Simulor,Rifle,Primary,False,False,False
+636,Tak & Lug,Melee,Melee,False,False,False
+637,Talons,Throwing,Secondary,False,False,False
+638,Tatsu,Melee,Melee,False,True,True
+639,Tatsu Prime,Melee,Melee,True,False,False
+640,Tekko,Melee,Melee,False,False,False
+641,Tekko Prime,Melee,Melee,True,False,False
+642,Telos Akbolto,Pistol,Secondary,False,False,False
+643,Telos Boltace,Melee,Melee,False,False,False
+644,Telos Boltor,Rifle,Primary,False,False,False
+645,Tenet Agendus,Melee,Melee,False,False,False
+646,Tenet Arca Plasmor,Rifle,Primary,False,True,True
+647,Tenet Cycron,Pistol,Secondary,False,False,False
+648,Tenet Detron,Pistol,Secondary,False,True,False
+649,Tenet Diplos,Pistol,Secondary,False,False,False
+650,Tenet Envoy,Rifle,Primary,False,False,False
+651,Tenet Exec,Melee,Melee,False,False,False
+652,Tenet Ferrox,Rifle,Primary,False,False,False
+653,Tenet Flux Rifle,Rifle,Primary,False,False,False
+654,Tenet Glaxion,Rifle,Primary,False,False,False
+655,Tenet Grigori,Melee,Melee,False,False,False
+656,Tenet Livia,Melee,Melee,False,True,False
+657,Tenet Plinx,Pistol,Secondary,False,False,False
+658,Tenet Spirex,Pistol,Secondary,False,False,False
+659,Tenet Tetra,Rifle,Primary,False,False,False
+660,Tenora,Rifle,Primary,False,False,False
+661,Tenora Prime,Rifle,Primary,True,False,False
+662,Tetra,Rifle,Primary,False,True,True
+663,Tiberon,Rifle,Primary,False,False,False
+664,Tiberon Prime,Rifle,Primary,True,False,False
+665,Tigris,Shotgun,Primary,False,True,True
+666,Tigris Prime,Rifle,Primary,True,True,True
+667,Tipedo,Melee,Melee,False,True,True
+668,Tipedo Prime,Melee,Melee,True,False,False
+669,Tonbo,Melee,Melee,False,False,False
+670,Tonkkatt,Melee,Melee,False,False,False
+671,Tonkor,Rifle,Primary,False,True,True
+672,Torid,Rifle,Primary,False,True,True
+673,Trumna,Rifle,Primary,False,False,False
+674,Trumna Prime,Rifle,Primary,True,False,False
+675,Twin Basolk,Melee,Melee,False,True,True
+676,Twin Grakatas,Rifle,Secondary,False,True,True
+677,Twin Gremlins,Dual Pistols,Secondary,False,True,True
+678,Twin Kohmak,Pistol,Secondary,False,False,False
+679,Twin Krohkur,Melee,Melee,False,True,True
+680,Twin Rogga,Pistol,Secondary,False,False,False
+681,Twin Vipers,Dual Pistols,Secondary,False,True,True
+682,Twin Vipers Wraith,Pistol,Secondary,False,True,True
+683,Tysis,Pistol,Secondary,False,False,False
+684,Vargeet Ii Jai,Zaw Component,Melee,False,False,False
+685,Vargeet Ii Ruhang,Zaw Component,Melee,False,False,False
+686,Vargeet Jai,Zaw Component,Melee,False,False,False
+687,Vargeet Jai Ii,Zaw Component,Melee,False,False,False
+688,Vargeet Ruhang,Zaw Component,Melee,False,False,False
+689,Vargeet Ruhang Ii,Zaw Component,Melee,False,False,False
+690,Vastilok,Melee,Melee,False,False,False
+691,Vasto,Pistol,Secondary,False,True,True
+692,Vasto Prime,Pistol,Secondary,True,True,True
+693,Vaykor Hek,Rifle,Primary,False,False,False
+694,Vaykor Marelok,Pistol,Secondary,False,False,False
+695,Vaykor Sydon,Melee,Melee,False,False,False
+696,Vectis,Rifle,Primary,False,True,True
+697,Vectis Prime,Rifle,Primary,True,True,True
+698,Veldt,Rifle,Primary,False,False,False
+699,Velocitus,Arch-Gun,Arch-Gun,False,True,True
+700,Velox,Pistol,Secondary,False,False,False
+701,Velox Prime,Pistol,Secondary,True,False,False
+702,Venato,Rifle,Melee,False,False,False
+703,Venka,Melee,Melee,False,False,False
+704,Venka Prime,Melee,Melee,True,False,False
+705,Verdilac,Melee,Melee,False,False,False
+706,Vericres,Melee,Melee,False,True,True
+707,Veritux,Arch-Melee,Arch-Melee,False,True,True
+708,Vesper 77,Pistol,Secondary,False,False,False
+709,Viper,Pistol,Secondary,False,True,True
+710,Viper Wraith,Pistol,Secondary,False,False,False
+711,Vitrica,Melee,Melee,False,False,False
+712,Volnus,Melee,Melee,False,True,True
+713,Volnus Prime,Melee,Melee,True,False,False
+714,Vulkar,Rifle,Primary,False,True,True
+715,Vulkar Wraith,Rifle,Primary,False,False,False
+716,War,Melee,Melee,False,True,True
+717,Wolf Sledge,Melee,Melee,False,False,False
+718,Xoris,Melee,Melee,False,True,True
+719,Zakti,Pistol,Secondary,False,True,True
+720,Zakti Prime,Pistol,Secondary,True,True,True
+721,Zarr,Rifle,Primary,False,True,True
+722,Zenistar,Melee,Melee,False,True,True
+723,Zenith,Rifle,Primary,False,True,True
+724,Zhuge,Rifle,Primary,False,True,True
+725,Zhuge Prime,Rifle,Primary,True,True,True
+726,Zylok,Pistol,Secondary,False,True,True
+727,Zylok Prime,Pistol,Secondary,True,False,False
+728,Zymos,Pistol,Secondary,False,False,False

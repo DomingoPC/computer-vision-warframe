@@ -1,116 +1,116 @@
-,name,type,category
-0,Amesha,Archwing,Archwing
-1,Ash,Warframe,Warframes
-2,Ash Prime,Warframe,Warframes
-3,Atlas,Warframe,Warframes
-4,Atlas Prime,Warframe,Warframes
-5,Banshee,Warframe,Warframes
-6,Banshee Prime,Warframe,Warframes
-7,Baruuk,Warframe,Warframes
-8,Baruuk Prime,Warframe,Warframes
-9,Bonewidow,Warframe,Warframes
-10,Caliban,Warframe,Warframes
-11,Chroma,Warframe,Warframes
-12,Chroma Prime,Warframe,Warframes
-13,Citrine,Warframe,Warframes
-14,Cyte-09,Warframe,Warframes
-15,Dagath,Warframe,Warframes
-16,Dante,Warframe,Warframes
-17,Elytron,Archwing,Archwing
-18,Ember,Warframe,Warframes
-19,Ember Prime,Warframe,Warframes
-20,Equinox,Warframe,Warframes
-21,Equinox Prime,Warframe,Warframes
-22,Excalibur,Warframe,Warframes
-23,Excalibur Prime,Warframe,Warframes
-24,Excalibur Umbra,Warframe,Warframes
-25,Frost,Warframe,Warframes
-26,Frost Prime,Warframe,Warframes
-27,Gara,Warframe,Warframes
-28,Gara Prime,Warframe,Warframes
-29,Garuda,Warframe,Warframes
-30,Garuda Prime,Warframe,Warframes
-31,Gauss,Warframe,Warframes
-32,Gauss Prime,Warframe,Warframes
-33,Grendel,Warframe,Warframes
-34,Grendel Prime,Warframe,Warframes
-35,Gyre,Warframe,Warframes
-36,Harrow,Warframe,Warframes
-37,Harrow Prime,Warframe,Warframes
-38,Helminth,Warframe,Warframes
-39,Hildryn,Warframe,Warframes
-40,Hildryn Prime,Warframe,Warframes
-41,Hydroid,Warframe,Warframes
-42,Hydroid Prime,Warframe,Warframes
-43,Inaros,Warframe,Warframes
-44,Inaros Prime,Warframe,Warframes
-45,Itzal,Archwing,Archwing
-46,Ivara,Warframe,Warframes
-47,Ivara Prime,Warframe,Warframes
-48,Jade,Warframe,Warframes
-49,Khora,Warframe,Warframes
-50,Khora Prime,Warframe,Warframes
-51,Koumei,Warframe,Warframes
-52,Kullervo,Warframe,Warframes
-53,Lavos,Warframe,Warframes
-54,Lavos Prime,Warframe,Warframes
-55,Limbo,Warframe,Warframes
-56,Limbo Prime,Warframe,Warframes
-57,Loki,Warframe,Warframes
-58,Loki Prime,Warframe,Warframes
-59,Mag,Warframe,Warframes
-60,Mag Prime,Warframe,Warframes
-61,Mesa,Warframe,Warframes
-62,Mesa Prime,Warframe,Warframes
-63,Mirage,Warframe,Warframes
-64,Mirage Prime,Warframe,Warframes
-65,Nekros,Warframe,Warframes
-66,Nekros Prime,Warframe,Warframes
-67,Nezha,Warframe,Warframes
-68,Nezha Prime,Warframe,Warframes
-69,Nidus,Warframe,Warframes
-70,Nidus Prime,Warframe,Warframes
-71,Nova,Warframe,Warframes
-72,Nova Prime,Warframe,Warframes
-73,Nyx,Warframe,Warframes
-74,Nyx Prime,Warframe,Warframes
-75,Oberon,Warframe,Warframes
-76,Oberon Prime,Warframe,Warframes
-77,Octavia,Warframe,Warframes
-78,Octavia Prime,Warframe,Warframes
-79,Odonata,Archwing,Archwing
-80,Odonata Prime,Archwing,Archwing
-81,Protea,Warframe,Warframes
-82,Protea Prime,Warframe,Warframes
-83,Qorvex,Warframe,Warframes
-84,Revenant,Warframe,Warframes
-85,Revenant Prime,Warframe,Warframes
-86,Rhino,Warframe,Warframes
-87,Rhino Prime,Warframe,Warframes
-88,Saryn,Warframe,Warframes
-89,Saryn Prime,Warframe,Warframes
-90,Sevagoth,Warframe,Warframes
-91,Sevagoth Prime,Warframe,Warframes
-92,Styanax,Warframe,Warframes
-93,Temple,Warframe,Warframes
-94,Titania,Warframe,Warframes
-95,Titania Prime,Warframe,Warframes
-96,Trinity,Warframe,Warframes
-97,Trinity Prime,Warframe,Warframes
-98,Valkyr,Warframe,Warframes
-99,Valkyr Prime,Warframe,Warframes
-100,Vauban,Warframe,Warframes
-101,Vauban Prime,Warframe,Warframes
-102,Voidrig,Warframe,Warframes
-103,Volt,Warframe,Warframes
-104,Volt Prime,Warframe,Warframes
-105,Voruna,Warframe,Warframes
-106,Wisp,Warframe,Warframes
-107,Wisp Prime,Warframe,Warframes
-108,Wukong,Warframe,Warframes
-109,Wukong Prime,Warframe,Warframes
-110,Xaku,Warframe,Warframes
-111,Xaku Prime,Warframe,Warframes
-112,Yareli,Warframe,Warframes
-113,Zephyr,Warframe,Warframes
-114,Zephyr Prime,Warframe,Warframes
+,name,type,category,isPrime
+0,Amesha,Archwing,Archwing,False
+1,Ash,Warframe,Warframes,False
+2,Ash Prime,Warframe,Warframes,True
+3,Atlas,Warframe,Warframes,False
+4,Atlas Prime,Warframe,Warframes,True
+5,Banshee,Warframe,Warframes,False
+6,Banshee Prime,Warframe,Warframes,True
+7,Baruuk,Warframe,Warframes,False
+8,Baruuk Prime,Warframe,Warframes,True
+9,Bonewidow,Warframe,Warframes,False
+10,Caliban,Warframe,Warframes,False
+11,Chroma,Warframe,Warframes,False
+12,Chroma Prime,Warframe,Warframes,True
+13,Citrine,Warframe,Warframes,False
+14,Cyte-09,Warframe,Warframes,False
+15,Dagath,Warframe,Warframes,False
+16,Dante,Warframe,Warframes,False
+17,Elytron,Archwing,Archwing,False
+18,Ember,Warframe,Warframes,False
+19,Ember Prime,Warframe,Warframes,True
+20,Equinox,Warframe,Warframes,False
+21,Equinox Prime,Warframe,Warframes,True
+22,Excalibur,Warframe,Warframes,False
+23,Excalibur Prime,Warframe,Warframes,True
+24,Excalibur Umbra,Warframe,Warframes,False
+25,Frost,Warframe,Warframes,False
+26,Frost Prime,Warframe,Warframes,True
+27,Gara,Warframe,Warframes,False
+28,Gara Prime,Warframe,Warframes,True
+29,Garuda,Warframe,Warframes,False
+30,Garuda Prime,Warframe,Warframes,True
+31,Gauss,Warframe,Warframes,False
+32,Gauss Prime,Warframe,Warframes,True
+33,Grendel,Warframe,Warframes,False
+34,Grendel Prime,Warframe,Warframes,True
+35,Gyre,Warframe,Warframes,False
+36,Harrow,Warframe,Warframes,False
+37,Harrow Prime,Warframe,Warframes,True
+38,Helminth,Warframe,Warframes,False
+39,Hildryn,Warframe,Warframes,False
+40,Hildryn Prime,Warframe,Warframes,True
+41,Hydroid,Warframe,Warframes,False
+42,Hydroid Prime,Warframe,Warframes,True
+43,Inaros,Warframe,Warframes,False
+44,Inaros Prime,Warframe,Warframes,True
+45,Itzal,Archwing,Archwing,False
+46,Ivara,Warframe,Warframes,False
+47,Ivara Prime,Warframe,Warframes,True
+48,Jade,Warframe,Warframes,False
+49,Khora,Warframe,Warframes,False
+50,Khora Prime,Warframe,Warframes,True
+51,Koumei,Warframe,Warframes,False
+52,Kullervo,Warframe,Warframes,False
+53,Lavos,Warframe,Warframes,False
+54,Lavos Prime,Warframe,Warframes,True
+55,Limbo,Warframe,Warframes,False
+56,Limbo Prime,Warframe,Warframes,True
+57,Loki,Warframe,Warframes,False
+58,Loki Prime,Warframe,Warframes,True
+59,Mag,Warframe,Warframes,False
+60,Mag Prime,Warframe,Warframes,True
+61,Mesa,Warframe,Warframes,False
+62,Mesa Prime,Warframe,Warframes,True
+63,Mirage,Warframe,Warframes,False
+64,Mirage Prime,Warframe,Warframes,True
+65,Nekros,Warframe,Warframes,False
+66,Nekros Prime,Warframe,Warframes,True
+67,Nezha,Warframe,Warframes,False
+68,Nezha Prime,Warframe,Warframes,True
+69,Nidus,Warframe,Warframes,False
+70,Nidus Prime,Warframe,Warframes,True
+71,Nova,Warframe,Warframes,False
+72,Nova Prime,Warframe,Warframes,True
+73,Nyx,Warframe,Warframes,False
+74,Nyx Prime,Warframe,Warframes,True
+75,Oberon,Warframe,Warframes,False
+76,Oberon Prime,Warframe,Warframes,True
+77,Octavia,Warframe,Warframes,False
+78,Octavia Prime,Warframe,Warframes,True
+79,Odonata,Archwing,Archwing,False
+80,Odonata Prime,Archwing,Archwing,True
+81,Protea,Warframe,Warframes,False
+82,Protea Prime,Warframe,Warframes,True
+83,Qorvex,Warframe,Warframes,False
+84,Revenant,Warframe,Warframes,False
+85,Revenant Prime,Warframe,Warframes,True
+86,Rhino,Warframe,Warframes,False
+87,Rhino Prime,Warframe,Warframes,True
+88,Saryn,Warframe,Warframes,False
+89,Saryn Prime,Warframe,Warframes,True
+90,Sevagoth,Warframe,Warframes,False
+91,Sevagoth Prime,Warframe,Warframes,True
+92,Styanax,Warframe,Warframes,False
+93,Temple,Warframe,Warframes,False
+94,Titania,Warframe,Warframes,False
+95,Titania Prime,Warframe,Warframes,True
+96,Trinity,Warframe,Warframes,False
+97,Trinity Prime,Warframe,Warframes,True
+98,Valkyr,Warframe,Warframes,False
+99,Valkyr Prime,Warframe,Warframes,True
+100,Vauban,Warframe,Warframes,False
+101,Vauban Prime,Warframe,Warframes,True
+102,Voidrig,Warframe,Warframes,False
+103,Volt,Warframe,Warframes,False
+104,Volt Prime,Warframe,Warframes,True
+105,Voruna,Warframe,Warframes,False
+106,Wisp,Warframe,Warframes,False
+107,Wisp Prime,Warframe,Warframes,True
+108,Wukong,Warframe,Warframes,False
+109,Wukong Prime,Warframe,Warframes,True
+110,Xaku,Warframe,Warframes,False
+111,Xaku Prime,Warframe,Warframes,True
+112,Yareli,Warframe,Warframes,False
+113,Zephyr,Warframe,Warframes,False
+114,Zephyr Prime,Warframe,Warframes,True
